@@ -1,6 +1,7 @@
 @extends('frontend.layouts.master')
 
 @section('content')
+
 <!--===========================
         BANNER 3 START
     ============================-->
